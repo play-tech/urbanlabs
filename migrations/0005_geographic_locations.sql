@@ -37,5 +37,5 @@ INSERT INTO institution_locations(institution_id,country_code,city_id)
 SELECT id,'ES','barcelona' FROM institutions WHERE id IN (
   'cc-sant-andreu','cc-can-baste','cc-pati-llimona','cc-golferichs',
   'cc-casa-elizalde','cc-albareda','cc-el-sortidor','cc-vil-la-urania','cc-urgell',
-  'fab-casa-del-rellotge','fab-casa-del-mig'
+  'fab-casa-del-rellotge','fab-casa-del-mig','cc-farinera'
 );

@@ -182,6 +182,14 @@ export const verifiedCentreProfiles: Record<string, CentreProfile> = {
     },
     email: 'informacio@vilaurania.net',
   },
+  'cc-farinera': {
+    slug: 'farinera',
+    phone: '932 918 080',
+    detailsSourceUrl:
+      'https://ajuntament.barcelona.cat/centrescivics/es/centre-civic/centre-cultural-la-farinera-del-clot',
+    detailsVerifiedAt: '2026-11-07',
+    email: 'informacio@farinera.org',
+  },
   'fab-casa-del-mig': {
     slug: 'fab-casa-del-mig',
     phone: '932914262',
